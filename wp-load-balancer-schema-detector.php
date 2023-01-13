@@ -6,7 +6,7 @@
  * Version:             1.0
  * Author:              Albert Zawadzki
  * Author URI:          https://github.com/AlbertZawadzki
- * Requires at least:   5.2
+ * Requires at least:   6.1
  * Requires PHP:        7.3
  */
 
