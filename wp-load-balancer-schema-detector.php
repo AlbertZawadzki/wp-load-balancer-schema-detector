@@ -2,7 +2,7 @@
 /**
  * Plugin name:         Load balancer schema detector
  * Plugin URI:          https://github.com/AlbertZawadzki/wp-load-balancer-schema-detector
- * Description:         Fixes infinite redirection bug in admin panel caused by is_ssl() method if it is behind any load balancer
+ * Description:         Fixes infinite redirection bug in admin panel caused by is_ssl() method if the admin panel is behind any load balancer
  * Version:             1.0
  * Author:              Albert Zawadzki
  * Author URI:          https://github.com/AlbertZawadzki
